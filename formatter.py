@@ -1,0 +1,1 @@
+def format_table(lines): return '\n'.join(lines)
